@@ -1,7 +1,7 @@
 # Loan-Approval-Prediction
 Predicting applicant's loan eligibity based on historic data gathered on previous loan grants.
 The data points collected include applicant's occupation, gender, country, currency policy, loan amount, repayment intervals, sector, loan distribution model, lender count, etc.
-Used algorithms -
+Used algorithms -<br/>
 -Logistic Regresion
 -KNN
 -Random Forest
